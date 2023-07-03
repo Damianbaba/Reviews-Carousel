@@ -34,6 +34,12 @@ const data = [
         name: "Aude",
         job: "France",
         text: "I struggled finding a guide with authentic and deep and solid yoga knowledge. Kara has all what looked for. She went deep enough in her own practice which makes me feel safe and inspired. Also she is very strong and offers a large range of possibilities, from slow Hatha to crazy had core sharp vinyasa. She is focused, generous and carrying. I highly recommend her.",
+    },
+    {
+        img: "nina",
+        name: "Nina",
+        job: "Poland",
+        text: "I have known Kara for 3 years. I practice yoga with her face to face and online. I like individual meetings because she chooses asanas just for me. Kara is demanding and I appreciate that. Asanas are not boring. She knows how to explain what to do. She is 100% yoga master. You can feel it so much.",
     }
 ];
 
